@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rowanlea
-- 👀 I’m interested in expanding my knowledge to explore my future career potential
+- 👀 I’m interested in learning all things Azure
 - 🌱 I’m currently learning web page scraping and machine learning in python
 - 💞️ I’m looking to collaborate on anything that interests me
 
